@@ -7,12 +7,13 @@ A collection of easy-to-use filters with clause conditions to [Filament](https:/
 
 > **Note**
 > For **Filament 2.x** use **[2.x](https://github.com/webbingbrasil/filament-advancedfilter/tree/2.x)** branch
+> For **Filament 3.x** use **[3.x](https://github.com/webbingbrasil/filament-advancedfilter/tree/3.x)** branch
 
 ## Installation
 
-Install the package via composer (requires filament >= 3.x)
+Install the package via composer (requires filament >= 4.x)
 ```bash
-composer require webbingbrasil/filament-advancedfilter "^3.0"
+composer require webbingbrasil/filament-advancedfilter "^4.0"
 ```
 
 Optionally you can publish the translation files

@@ -86,7 +86,7 @@ trait HasClauses
             ->options($this->clauses());
 
         if ($this->isClauseLabelDisabled()) {
-            $clause->disableLabel();
+            $clause->hiddenLabel();
         }
 
         if (filled($defaultState = $this->getDefaultState())) {
